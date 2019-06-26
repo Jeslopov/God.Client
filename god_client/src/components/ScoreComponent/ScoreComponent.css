@@ -1,0 +1,74 @@
+.score-component-container{
+    width: 300px;
+    right: 25%;
+    
+    height: 75vh;
+    
+    position: absolute;
+    top: 15%;
+    margin-right: -200px; 
+}
+
+.score-component-container h1{
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+.score-component-header>h1{
+    text-align: center;
+    color: #333333;
+    background-color: #cccccc;
+    border-radius: 5px;
+}
+
+.score-round-list-header{
+    height: 40px;
+    margin-bottom: 10px;
+}
+
+.score-round-list-header>.score-round-header{
+    color: #333333;
+}
+
+.score-round-list-header>.score-winner-header{
+    color: #333333;
+}
+
+.score-left-floated-row-element{
+    float: left;
+    margin-left: 10%;
+}
+
+.score-right-floated-row-element{
+    float: right;
+    margin-right: 10%;
+}
+
+.score-list-row{
+    height: 40px;
+}
+
+.score-round-id{
+    width: 96px;
+    margin-top: 11px;
+    text-align: center;
+}
+
+.score-round-winner-name{
+    margin-top: 11px;
+    width: 107px;
+    text-align: center;
+}
+
+
+.score-round-list-body{
+    overflow-y: scroll;
+    overflow-x: hidden;
+    height: 75%;
+}
+
+.score-round-list-body .score-list-row:nth-child(odd){
+    background-color: #dddddd;
+
+}
+

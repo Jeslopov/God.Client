@@ -1,0 +1,38 @@
+.move-selection-container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-left: -125px;
+    margin-top: -125px;
+
+    /* margin-top: 50%; */
+    width: 250px;
+    height: 250px;
+
+}
+
+.move-selection-title-container {
+    height: 20px;
+    margin-top: 30px;
+    align-content: center;
+    text-align: center;
+}
+
+.move-selection-input-container{
+    height: 20px;
+    margin-top: 30px;
+    align-content: center;
+    text-align: center;
+}
+
+.move-selection-ok-btn-container{
+    height: 20px;
+    margin-top: 30px;
+    align-content: center;
+    text-align: center;
+}
+
+.move-selection-ok-btn {
+    height: 25px;
+    width: 150px;
+}

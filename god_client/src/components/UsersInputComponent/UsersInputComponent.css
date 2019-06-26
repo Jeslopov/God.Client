@@ -1,0 +1,42 @@
+.uinpt-component-container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-left: -125px;
+    margin-top: -125px;
+    width: 250px;
+    height: 250px;
+}
+
+.uinpt-title-container{
+    height: 30px;
+    margin-top: 30px;
+    align-content: center;
+    text-align: center;
+}
+
+.uinpt-input-container{
+    margin-top: 20px;
+    align-content: center;
+    text-align: center;
+    
+}
+
+.uinpt-input-container input{
+    height: 25px;
+    border-radius: 5px;
+    border-style: none;
+    border-width: 0px;
+    text-indent: 10px;
+}
+
+.uinpt-button-container{
+    margin-top: 20px;
+    align-content: center;
+    text-align: center;
+}
+
+.uinpt-start-btn {
+    height: 25px;
+    width: 150px;
+}

@@ -1,0 +1,21 @@
+.match-left-screen {
+    /* position: absolute; */
+    width: 49vw;
+    height: 99vh; 
+}
+
+.match-right-screen {
+    /* position: absolute; */
+    width: 49vw;
+    height: 99vh; 
+}
+
+.statistics-button-container {
+    position: absolute;
+    align-content: center;
+    width: 92px;
+    height: 35px;
+    top: 2%;
+    margin-left: -46px;
+    left: 50%;
+}

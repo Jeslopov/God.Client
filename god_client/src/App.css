@@ -1,0 +1,11 @@
+.app-container{
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  min-width: 1000px;
+
+  /* overflow: scroll; */
+
+  /* Temporal Style */
+  background-color: rgba(64, 102, 173, 0.794);
+}
